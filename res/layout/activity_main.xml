@@ -64,7 +64,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="134dp"
-        android:text="54"
+        android:text="Loading...."
         android:textColor="#F43688"
         android:textSize="24sp"
         app:layout_constraintBottom_toBottomOf="parent"
